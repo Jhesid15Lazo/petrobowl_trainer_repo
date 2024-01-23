@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  output: "export",
+  output: "petrobowl_trainer_repo",
   images: {
     unoptimized: true,
   },
